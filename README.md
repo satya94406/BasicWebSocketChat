@@ -14,7 +14,7 @@ Socket.IO for real-time WebSocket communication
    bash
    Copy
    Edit
-   **git clone** https://github.com/yourusername/realtime-chat-app.git
+   **git clone** https://github.com/satya94406/satyaPortfolio.git
    cd realtime-chat-app
 2. Install Dependencies
    bash
